@@ -1,3 +1,10 @@
+# Roomy website (moved)
+
+The site now lives at https://getroomy.github.io (repo getroomy/getroomy.github.io).
+The pages here only redirect there, so links in Roomy 1.0 keep working. Don't edit content here.
+
+---
+
 # Roomy website
 
 Static site for the Roomy iPhone app, served by GitHub Pages: home, privacy policy and support pages.
